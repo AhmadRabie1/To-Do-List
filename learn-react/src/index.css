@@ -1,3 +1,7 @@
+body{
+    background-color: hsl(0, 0%, 10%);
+}
+
 .to-do-list{
     font-family: Arial, sans-serif;
     text-align: center;
@@ -6,6 +10,7 @@
 
 h1{
     font-size: 4rem;
+    color: white;
 }
 
 button{
